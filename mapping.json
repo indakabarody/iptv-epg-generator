@@ -1,0 +1,1787 @@
+[
+{
+    "name": "6abc (WPVI-TV)",
+    "tvg_id": "ABCWPVI.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCWPVI.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/PA_PHILADELPHIA_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "9 News (KUSA)",
+    "tvg_id": "NBCKUSA.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCKUSA.us.png",
+    "stream_url": "https://fl1.moveonjoy.com/CO_Denver_NBC/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "ABC 7 (KABC-TV)",
+    "tvg_id": "ABCKABC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCKABC.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "ABC 7 (WABC-TV)",
+    "tvg_id": "ABCWABC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCWABC.us.png",
+    "stream_url": "http://fl61.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "ABC 7 (WJLA-TV)",
+    "tvg_id": "ABCWJLA.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCWJLA.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/DC_WASHINGTON_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "ABC 10 (KXTV)",
+    "tvg_id": "ABCKXTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCKXTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CA_SACRAMENTO_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "ABC 15 Arizona (KNXV-TV)",
+    "tvg_id": "ABCKNXV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCKNXV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/AZ_PHOENIX_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "ABC Chicago (WLS-TV)",
+    "tvg_id": "ABCWLS.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCWLS.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "ABC East (WABC-TV)",
+    "tvg_id": "ABCEast_WABC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCEast_WABC.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/ABC_EAST/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "ABC Miami 7 News (WSVN)",
+    "tvg_id": "ABCWSVNDT2.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCWSVNDT2.us.png",
+    "stream_url": "https://fl1.moveonjoy.com/FL_MIAMI_ABC/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "ACC Network",
+    "tvg_id": "ACCNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ACCNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "AMC Network",
+    "tvg_id": "AMC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/AMC.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "American Heroes Channel",
+    "tvg_id": "AmericanHeroesChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/AmericanHeroesChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "Animal Planet",
+    "tvg_id": "AnimalPlanet.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/AnimalPlanet.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Animal_Planet/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "Antenna TV",
+    "tvg_id": "AntennaTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/AntennaTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Antenna_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "aspireTV ",
+    "tvg_id": "ASPiRE.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ASPiRE.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Aspire/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "AXS TV",
+    "tvg_id": "AXSTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/AXSTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Axs_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "BBC America",
+    "tvg_id": "BBCAmerica.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/BBCAmerica.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "BBC World News",
+    "tvg_id": "BBCWorldNews.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/BBCWorldNews.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "beIN Sports",
+    "tvg_id": "beINSports.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/beINSports.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "BET",
+    "tvg_id": "BET.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/BET.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BET_EAST/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "BET Gospel",
+    "tvg_id": "BETGospel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/BETGospel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "BET Her",
+    "tvg_id": "BETHer.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/BETHer.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BET_HER/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "BET Jams",
+    "tvg_id": "BETJams.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/BETJams.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BET_Jams/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "BET Soul",
+    "tvg_id": "BETSOUL.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/BETSOUL.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BET_SOUL/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Big Ten Network",
+    "tvg_id": "BigTen.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/BigTen.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Bloomberg Television",
+    "tvg_id": "Bloomberg.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Bloomberg.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Boomerang",
+    "tvg_id": "Boomerang.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Boomerang.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BOOMERANG/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Bounce TV",
+    "tvg_id": "BounceTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/BounceTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Bravo",
+    "tvg_id": "Bravo.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Bravo.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/BRAVO/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Buzzr",
+    "tvg_id": "BUZZR.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/BUZZR.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Buzzr/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "C-SPAN",
+    "tvg_id": "CSPAN.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CSPAN.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/C-SPAN/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Cartoon Network",
+    "tvg_id": "CartoonNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CartoonNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "CBS 12 (WPEC)",
+    "tvg_id": "CBSWPEC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSWPEC.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "CBS 47 (KGPE)",
+    "tvg_id": "CBSKGPE.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSKGPE.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CA_FRESNO_CBS/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "CBS Chicago (WBBM-TV)",
+    "tvg_id": "CBSWBBM.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSWBBM.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "CBS Colorado (KCNC-TV)",
+    "tvg_id": "CBSKCNC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSKCNC.us.png",
+    "stream_url": "https://fl1.moveonjoy.com/CO_DENVER_CBS/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "CBS LA (KCBS-TV)",
+    "tvg_id": "CBSKCBS.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSKCBS.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "CBS Miami (WFOR-TV)",
+    "tvg_id": "CBSWFOR.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSWFOR.us.png",
+    "stream_url": "https://fl1.moveonjoy.com/FL_Miami_CBS/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "CBS News",
+    "tvg_id": "CBSNews.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSNews.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CBS_News/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "CBS Philadelphia (KYW-TV)",
+    "tvg_id": "CBSKYW.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSKYW.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "CBS Sports Network",
+    "tvg_id": "CBSSportsNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Channel 3 (KSNV)",
+    "tvg_id": "NBCKSNV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCKSNV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NV_LAS_VEGAS_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Channel 7 (WXYZ-TV)",
+    "tvg_id": "ABCWXYZ.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCWXYZ.us.png",
+    "stream_url": "https://fl1.moveonjoy.com/MI_DETROIT_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Cinemax",
+    "tvg_id": "CineMAX.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CineMAX.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Cinemax Hits",
+    "tvg_id": "CinemaxHits.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CinemaxHits.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Cinemax (West)",
+    "tvg_id": "CineMAXPacific.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CineMAXPacific.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Cleo TV",
+    "tvg_id": "CleoTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CleoTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Cleo_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "CMT",
+    "tvg_id": "CMT.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CMT.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CMT/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "CNBC",
+    "tvg_id": "CNBC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CNBC.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CNBC/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "CNBC World",
+    "tvg_id": "CNBCWorld.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CNBCWorld.us.png",
+    "stream_url": "http://fl61.moveonjoy.com/CNBC_World/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "CNN",
+    "tvg_id": "CNN.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CNN.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CNN/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "CNN International",
+    "tvg_id": "CNNinternational.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CNNinternational.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Comedy.tv",
+    "tvg_id": "ComedyTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ComedyTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Comedy_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Comedy Central",
+    "tvg_id": "ComedyCentral.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ComedyCentral.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Comedy_Central/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Comet",
+    "tvg_id": "Comet.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Comet.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/COMET/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Cooking Channel",
+    "tvg_id": "CookingChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CookingChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Court TV",
+    "tvg_id": "CourtTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CourtTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/COURT_TV/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Cozi TV",
+    "tvg_id": "CoziTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CoziTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/COZI_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Crave 1",
+    "tvg_id": "Crave1.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/Crave1.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/CRAVE_1/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Crave 2",
+    "tvg_id": "Crave2.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/Crave2.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/CRAVE_2/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Crave 3",
+    "tvg_id": "Crave3.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/Crave3.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/CRAVE_3/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Crave 4",
+    "tvg_id": "Crave4.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/Crave4.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/CRAVE_4/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Crime + Investigation",
+    "tvg_id": "CrimeandInvestigationNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CrimeandInvestigationNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "CTV Nature Channel",
+    "tvg_id": "CTVNature.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/CTVNature.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/Discovery_Science/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "CW18 (WKCF)",
+    "tvg_id": "CWWKCF.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CWWKCF.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Destination America",
+    "tvg_id": "DestinationAmerica.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/DestinationAmerica.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Destination_America/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Discovery Channel",
+    "tvg_id": "DiscoveryChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/DiscoveryChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "Discovery Family Channel",
+    "tvg_id": "DiscoveryFamilyChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/DiscoveryFamilyChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Discovery Life",
+    "tvg_id": "DiscoveryLifeChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/DiscoveryLifeChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Disney Channel",
+    "tvg_id": "DisneyChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/DisneyChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/DISNEY/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Disney Junior",
+    "tvg_id": "DisneyJunior.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/DisneyJunior.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Disney XD",
+    "tvg_id": "DisneyXD.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/DisneyXD.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "E!: Entertainment Television",
+    "tvg_id": "EEntertainmentTelevision.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/EEntertainmentTelevision.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ESPN2",
+    "tvg_id": "ESPN2.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ESPN2.us.png",
+    "stream_url": "http://fl2.moveonjoy.com/ESPN_2/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "ESPNEWS",
+    "tvg_id": "ESPNEWS.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ESPNEWS.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "ESPNU",
+    "tvg_id": "ESPNU.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ESPNU.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/ESPN_U/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "FanDuel TV",
+    "tvg_id": "FanDuelTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FanDuelTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TVG/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Food Network",
+    "tvg_id": "FoodNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FoodNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Fox 2 Detroit (WJBK)",
+    "tvg_id": "FOXWJBK.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXWJBK.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MI_Detroit_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 5 (KVVU-TV)",
+    "tvg_id": "FOXKVVU.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXKVVU.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NV_LAS_VEGAS_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 5 (WTTG)",
+    "tvg_id": "FOXWTTG.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXWTTG.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/DC_WASHINGTON_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 7 Austin (KTBC)",
+    "tvg_id": "FOXKTBC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXKTBC.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TX_AUSTIN_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 10 Phoenix (KSAZ-TV)",
+    "tvg_id": "FOXKSAZ.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXKSAZ.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/AZ_PHOENIX_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 13 Tampa Bay (WTVT)",
+    "tvg_id": "FOXWTVT.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXWTVT.us.png",
+    "stream_url": "http://fl61.moveonjoy.com/FL_Tampa_Fox/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 17 (WZTV)",
+    "tvg_id": "FOXWZTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXWZTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TN_Nashville_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 29 (WFLX)",
+    "tvg_id": "FOXWFLX.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXWFLX.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 29 Philadelphia (WTXF-TV)",
+    "tvg_id": "FOXWTXF.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXWTXF.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 31 Denver (KDVR)",
+    "tvg_id": "FOXKDVR.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXKDVR.us.png",
+    "stream_url": "https://fl1.moveonjoy.com/CO_Denver_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 32 Chicago (WFLD)",
+    "tvg_id": "FOXWFLD.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXWFLD.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox 59 (WXIN)",
+    "tvg_id": "FOXWXIN.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXWXIN.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/IN_Indianapolis_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Fox Business Network",
+    "tvg_id": "FoxBusiness.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FoxBusiness.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Fox News Channel",
+    "tvg_id": "FoxNewsChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FoxNewsChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Fox Soul",
+    "tvg_id": "FOXSOUL.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXSOUL.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Fox Sports 1",
+    "tvg_id": "FoxSports1.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FoxSports1.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Freeform",
+    "tvg_id": "Freeform.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Freeform.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FREE_FORM/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Fuse",
+    "tvg_id": "Fuse.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Fuse.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FUSE/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "FX",
+    "tvg_id": "FX.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FX.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FX/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "FXX",
+    "tvg_id": "FXX.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FXX.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FXX/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "FX Movie Channel",
+    "tvg_id": "FXMovies.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FXMovies.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "FYI Channel",
+    "tvg_id": "FYIChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FYIChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FYI/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Get TV",
+    "tvg_id": "getTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/getTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/GET_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Golf Channel",
+    "tvg_id": "GolfChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/GolfChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/GOLF/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Great American Family",
+    "tvg_id": "GreatAmericanFamily.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/GreatAmericanFamily.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Great_American_Country/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Grit TV",
+    "tvg_id": "Grit.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Grit.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/GRIT_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Hallmark Channel",
+    "tvg_id": "HallmarkChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HallmarkChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Hallmark Family",
+    "tvg_id": "HallmarkFamily.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HallmarkFamily.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Hallmark Mystery",
+    "tvg_id": "HallmarkMystery.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HallmarkMystery.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "HBO",
+    "tvg_id": "HBO.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HBO.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HBO/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "HBO2",
+    "tvg_id": "HBO2.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HBO2.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HBO_2/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "HBO Comedy",
+    "tvg_id": "HBOComedy.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HBOComedy.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "HBO Family",
+    "tvg_id": "HBOFamily.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HBOFamily.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "HBO Zone",
+    "tvg_id": "HBOZone.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HBOZone.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HBO_Zone/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "HGTV",
+    "tvg_id": "HGTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HGTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HGTV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "History",
+    "tvg_id": "History.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/History.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/history_channel/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "HLN",
+    "tvg_id": "HLN.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HLN.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HLN/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "HSN",
+    "tvg_id": "HSN.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/HSN.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/HSN/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "INSP",
+    "tvg_id": "INSP.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/INSP.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/INSP/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Investigation Discovery",
+    "tvg_id": "InvestigationDiscovery.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/InvestigationDiscovery.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "Ion Plus",
+    "tvg_id": "IONPlus.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/IONPlus.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/ION_Plus/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Ion Television",
+    "tvg_id": "IonTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/IonTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/ION_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "KOAT 7 (KOAT-TV)",
+    "tvg_id": "ABCKOAT.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCKOAT.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NM_Albuquerque_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "KRQE News 13 (KRQE)",
+    "tvg_id": "CBSKRQE.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSKRQE.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NM_Albuquerque_CBS/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "KSEE 24 (KSEE)",
+    "tvg_id": "NBCKSEE.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCKSEE.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/CA_FRESNO_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "KVUE (KVUE)",
+    "tvg_id": "ABCKVUE.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCKVUE.us.png",
+    "stream_url": "https://fl1.moveonjoy.com/TX_AUSTIN_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Lifetime",
+    "tvg_id": "Lifetime.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Lifetime.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/LIFETIME/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Lifetime Movies Network",
+    "tvg_id": "LifetimeMoviesNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/LifetimeMoviesNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Local 4 (WDIV-TV)",
+    "tvg_id": "NBCWDIV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCWDIV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MI_Detroit_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Love Nature",
+    "tvg_id": "LoveNature.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/LoveNature.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "Magnolia Network",
+    "tvg_id": "MagnoliaNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MagnoliaNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/DIY/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Marquee Sports Network",
+    "tvg_id": "MarqueeSports.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MarqueeSports.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MeTV",
+    "tvg_id": "MeTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MeTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/ME_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "MGM+",
+    "tvg_id": "MGM+.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MGM+.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/EPIX/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "MGM+ Drive In",
+    "tvg_id": "MGM+DriveIn.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MGM+DriveIn.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "MGM+ Hits",
+    "tvg_id": "MGM+Hits.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MGM+Hits.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Military Heroes by History",
+    "tvg_id": "MilitaryHeroesByHistory.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MilitaryHeroesByHistory.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Military_History/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "MLB 1",
+    "tvg_id": "MLB01.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB01.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_1/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 2",
+    "tvg_id": "MLB02.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB02.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_2/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 3",
+    "tvg_id": "MLB03.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB03.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_3/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 4",
+    "tvg_id": "MLB04.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB04.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_4/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 5",
+    "tvg_id": "MLB05.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB05.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_5/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 6",
+    "tvg_id": "MLB06.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB06.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_6/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 7",
+    "tvg_id": "MLB07.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB07.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_7/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 8",
+    "tvg_id": "MLB08.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB08.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_8/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 9",
+    "tvg_id": "MLB09.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB09.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_9/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 10",
+    "tvg_id": "MLB10.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB10.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_10/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 11",
+    "tvg_id": "MLB11.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB11.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_11/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 12",
+    "tvg_id": "MLB12.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB12.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_12/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 13",
+    "tvg_id": "MLB13.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB13.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_13/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 14",
+    "tvg_id": "MLB14.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB14.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_14/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 15",
+    "tvg_id": "MLB15.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB15.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_15/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB 16",
+    "tvg_id": "MLB16.v",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLB16.v.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_16/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MLB Network",
+    "tvg_id": "MLBNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MLBNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Motor Trend",
+    "tvg_id": "MOTORTREND.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MOTORTREND.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "MSG",
+    "tvg_id": "MSG.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MSG.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MSG/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MS NOW",
+    "tvg_id": "MSNOW.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MSNOW.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MSNBC/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "MTV",
+    "tvg_id": "MTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MTV/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "MTV2",
+    "tvg_id": "MTV2.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MTV2.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MTV_2/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "MTV Classic",
+    "tvg_id": "MTVClassic.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MTVClassic.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "MTV Live",
+    "tvg_id": "MTVLive.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/MTVLive.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Much",
+    "tvg_id": "MuchMusic.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/MuchMusic.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/MUCH/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "National Geographic",
+    "tvg_id": "NationalGeographic.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NationalGeographic.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/National_Geographic/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "National Geographic Wild",
+    "tvg_id": "NationalGeographicWild.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NationalGeographicWild.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "NBA TV",
+    "tvg_id": "NBAtv.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBAtv.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NBA_TV/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NBC 4 (WRC-TV)",
+    "tvg_id": "NBCWRC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCWRC.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/DC_WASHINGTON_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "NBC 4 New York (WNBC)",
+    "tvg_id": "NBCWNBC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCWNBC.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "NBC 5 Chicago (WMAQ-TV)",
+    "tvg_id": "NBCWMAQ.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCWMAQ.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "NBC 6 (WTVJ)",
+    "tvg_id": "NBCWTVJ.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCWTVJ.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "NBC 10 (WCAU)",
+    "tvg_id": "NBCWCAU.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCWCAU.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "NBC Sports Bay Area",
+    "tvg_id": "NBCSportsBayArea.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCSportsBayArea.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NBC U.S. Virgin Islands (WVGN-LD)",
+    "tvg_id": "NBCWVGN.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCWVGN.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "NewsChannel 8 (WFLA-TV)",
+    "tvg_id": "NBCWFLA.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCWFLA.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "NewsNation",
+    "tvg_id": "NewsNation.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NewsNation.us.png",
+    "stream_url": "http://fl31.moveonjoy.com/NEWS_NATION/index.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "News 2 (WKRN-TV)",
+    "tvg_id": "ABCWKRN.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCWKRN.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "NFL 1",
+    "tvg_id": "NFL01.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL01.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_1/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 2",
+    "tvg_id": "NFL02.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL02.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_2/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 3",
+    "tvg_id": "NFL03.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL03.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_3/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 4",
+    "tvg_id": "NFL04.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL04.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_4/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 5",
+    "tvg_id": "NFL05.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL05.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_5/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 6",
+    "tvg_id": "NFL06.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL06.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_6/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 7",
+    "tvg_id": "NFL07.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL07.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_7/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 8",
+    "tvg_id": "NFL08.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL08.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_8/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 9",
+    "tvg_id": "NFL09.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL09.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_9/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 10",
+    "tvg_id": "NFL10.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL10.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_10/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 11",
+    "tvg_id": "NFL11.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL11.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_11/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 12",
+    "tvg_id": "NFL12.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL12.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_12/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 13",
+    "tvg_id": "NFL13.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL13.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_13/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 14",
+    "tvg_id": "NFL14.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL14.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_14/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 15",
+    "tvg_id": "NFL15.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL15.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_15/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL 16",
+    "tvg_id": "NFL16.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFL16.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_16/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL Network",
+    "tvg_id": "NFLNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NFLNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "NHL Network",
+    "tvg_id": "NHLNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NHLNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Nickelodeon",
+    "tvg_id": "Nickelodeon.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Nickelodeon.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Nicktoons",
+    "tvg_id": "Nicktoons.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Nicktoons.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NICKTOONS/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Nick Jr.",
+    "tvg_id": "NickJr.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NickJr.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/NICK_JR/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Outdoor Channel",
+    "tvg_id": "OutdoorChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/OutdoorChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Outside TV",
+    "tvg_id": "OutsideTelevision.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/OutsideTelevision.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Ovation",
+    "tvg_id": "OvationTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/OvationTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Ovation/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "OWN",
+    "tvg_id": "OWN.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/OWN.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/OWN/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Oxygen",
+    "tvg_id": "Oxygen.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Oxygen.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/OXYGEN/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Paramount Network",
+    "tvg_id": "ParamountNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ParamountNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Paramount+ with Showtime",
+    "tvg_id": "Paramount+withShowtime.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Paramount+withShowtime.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SHOWTIME/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Paramount+ with Showtime (West)",
+    "tvg_id": "Paramount+withShowtimePacific.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Paramount+withShowtimePacific.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Pop",
+    "tvg_id": "POP.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/POP.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Pop_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "QVC",
+    "tvg_id": "QVC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/QVC.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/QVC/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Racer Network",
+    "tvg_id": "RacerNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/RacerNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/MAV_TV/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Reelz",
+    "tvg_id": "ReelzChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ReelzChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/REELZ/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Revolt",
+    "tvg_id": "Revolt.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Revolt.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/REVOLT/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "SEC Network",
+    "tvg_id": "SECNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/SECNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Showtime 2",
+    "tvg_id": "Showtime2.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Showtime2.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Showtime Extreme",
+    "tvg_id": "ShowtimeExtreme.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ShowtimeExtreme.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Showtime Next",
+    "tvg_id": "ShowtimeNext.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ShowtimeNext.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Showtime Women",
+    "tvg_id": "ShowtimeWomen.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ShowtimeWomen.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Smithsonian Channel",
+    "tvg_id": "SmithsonianNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/SmithsonianNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
+    "category": "Documentary"
+  },
+  {
+    "name": "Sony Channel",
+    "tvg_id": "Sony.mx",
+    "tvg_logo": "https://iptv-epg.org/logos/Mexico/Sony.mx.png",
+    "stream_url": "http://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Sportsman Channel",
+    "tvg_id": "SportsmanChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/SportsmanChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "SportsNet New York",
+    "tvg_id": "SNY.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/SNY.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SNY/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Stadium",
+    "tvg_id": "Stadium.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Stadium.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/STADIUM/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Starz",
+    "tvg_id": "Starz.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Starz.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/STARZ/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Starz Comedy",
+    "tvg_id": "StarzComedy.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/StarzComedy.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Starz Edge",
+    "tvg_id": "StarzEdge.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/StarzEdge.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Starz Encore Action",
+    "tvg_id": "StarzEncoreAction.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/StarzEncoreAction.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Starz Encore Classic",
+    "tvg_id": "StarzEncoreClassic.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/StarzEncoreClassic.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Starz Encore Westerns",
+    "tvg_id": "StarzEncoreWesterns.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/StarzEncoreWesterns.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Starz (West)",
+    "tvg_id": "StarzPacific.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/StarzPacific.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/STARZ_WEST/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Sundance TV",
+    "tvg_id": "SundanceTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/SundanceTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SUNDANCE/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Syfy",
+    "tvg_id": "Syfy.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Syfy.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/SYFY/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Tampa Bay 28 (WFTS-TV)",
+    "tvg_id": "ABCWFTS.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/ABCWFTS.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "Tampa Bay 44 (WTOG)",
+    "tvg_id": "CWWTOG.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CWWTOG.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "TBS",
+    "tvg_id": "TBS.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/TBS.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TBS/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "TCM",
+    "tvg_id": "TCM.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/TCM.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TCM/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "TeenNick",
+    "tvg_id": "TeenNick.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/TeenNick.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Teen_Nick/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Tennis Channel",
+    "tvg_id": "TennisChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/TennisChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "TLC",
+    "tvg_id": "TLC.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/TLC.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TLC/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Travel Channel",
+    "tvg_id": "TravelChannel.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/TravelChannel.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Travel_Channel/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "TSN1",
+    "tvg_id": "TSN1.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/TSN1.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/TSN_1/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "TSN2",
+    "tvg_id": "TSN2.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/TSN2.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/TSN_2/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "TSN3",
+    "tvg_id": "TSN3.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/TSN3.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/TSN_3/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "TSN4",
+    "tvg_id": "TSN4.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/TSN4.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/TSN_4/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "TSN5",
+    "tvg_id": "TSN5.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/TSN5.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/TSN_5/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "TV Land",
+    "tvg_id": "TVLand.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/TVLand.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TV_LAND/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "TV One",
+    "tvg_id": "TVOne.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/TVOne.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TV_ONE/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "UPtv",
+    "tvg_id": "UP.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/UP.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/Up_Tv/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "USA Network",
+    "tvg_id": "USANetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/USANetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "VH1",
+    "tvg_id": "VH1.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/VH1.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/VH1/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Vice TV",
+    "tvg_id": "Vice.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/Vice.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/VICELAND/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "W Network",
+    "tvg_id": "WNetwork.ca",
+    "tvg_logo": "https://iptv-epg.org/logos/Canada/WNetwork.ca.png",
+    "stream_url": "http://fl1.moveonjoy.com/W_NETWORK/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "We TV",
+    "tvg_id": "WeTV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/WeTV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/WE_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "WGN Channel 9 (WGN-TV)",
+    "tvg_id": "WGNWGN9.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/WGNWGN9.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/WGN/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "World Fishing Network",
+    "tvg_id": "WorldFishingNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/WorldFishingNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "WSMV 4 (WSMV-TV)",
+    "tvg_id": "NBCWSMV.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCWSMV.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/TN_Nashville_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "WSVN 7 (WSVN)",
+    "tvg_id": "FOXWSVN.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/FOXWSVN.us.png",
+    "stream_url": "https://fl1.moveonjoy.com/FL_Miami_FOX/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "WTHR Channel 13 (WTHR)",
+    "tvg_id": "NBCWTHR.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/NBCWTHR.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/IN_Indianapolis_NBC/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "WUSA 9 (WUSA)",
+    "tvg_id": "CBSWUSA.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/CBSWUSA.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/DC_WASHINGTON_CBS/index.m3u8",
+    "category": "General"
+  },
+  {
+    "name": "YES Network",
+    "tvg_id": "YesNetwork.us",
+    "tvg_logo": "https://iptv-epg.org/logos/USA/YesNetwork.us.png",
+    "stream_url": "http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8",
+    "category": "Sports"
+  }
+]

@@ -1,0 +1,21 @@
+# --- Environment Variables ---
+.env
+
+# --- Python Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# --- Generated Files ---
+index.m3u
+epg.xml
+
+# --- Editor / OS Files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

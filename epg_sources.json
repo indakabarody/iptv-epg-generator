@@ -1,0 +1,14 @@
+[
+  {
+    "country": "United States",
+    "url": "https://iptv-epg.org/files/epg-us.xml"
+  },
+  {
+    "country": "Canada",
+    "url": "https://iptv-epg.org/files/epg-ca.xml"
+  },
+  {
+    "country": "Mexico",
+    "url": "https://iptv-epg.org/files/epg-mx.xml"
+  }
+]
